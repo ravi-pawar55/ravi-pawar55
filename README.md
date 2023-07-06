@@ -12,7 +12,7 @@
 </div>
 
 
-<h3 align="center">Love Programming ❤️</h3>
+<h3 align="center">Passion for programming ❤️</h3>
 <h4 align="center">My Portfolio: https://ravi-portfolio-site.netlify.app/ </h4>
 <div align="center">
   <a align="center" href="https://drive.google.com/file/d/1qi3lUN5awiYhFWu5lWxG8uaYuwpR9Mk1/view">
@@ -32,6 +32,12 @@
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/ravi-pawar55?tab=repositories)**
 
 - 📫 How to reach me **ravindrapawar5502@gmail.com**
+
+## Skills and Expertise
+- Proficient in HTML, CSS, JavaScript
+- Experienced in ReactJs, NodeJs
+- Familiar with MERN stack development
+- Strong problem-solving skills and attention to detail
 
 
 ## **Coding Profiles**:
@@ -54,8 +60,10 @@
     <a href="https://react.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/react-native.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> &nbsp; 
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/visual-studio-code-2019.png"/> </a>
+    <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://seekicon.com/free-icon-download/eclipse_2.svg" alt="eclipse" width="40" height="40"/> </a> &nbsp;
 </p>
 
 
