@@ -119,7 +119,7 @@
 </p>
 
 ## 👀 Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/ravi-pawar55/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ravi-pawar55">
 </a>
 <a href="https://github.com/ravi-pawar55?tab=followers"><img src="https://img.shields.io/github/followers/ravi-pawar55?label=Followers&style=social" alt="GitHub Badge"></a>
